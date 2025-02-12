@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779460352225966871/f12d4f95caae4e45af7a6a02be96b98d/artifacts
+end_time: 1739366955109
+entry_point_name: ''
+experiment_id: '779460352225966871'
+lifecycle_stage: active
+run_id: f12d4f95caae4e45af7a6a02be96b98d
+run_name: beautiful-deer-761
+run_uuid: f12d4f95caae4e45af7a6a02be96b98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739366948386
+status: 3
+tags: []
+user_id: Asus

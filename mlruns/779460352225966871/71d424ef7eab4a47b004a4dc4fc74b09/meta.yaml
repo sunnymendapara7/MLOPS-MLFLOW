@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779460352225966871/71d424ef7eab4a47b004a4dc4fc74b09/artifacts
+end_time: 1739365864676
+entry_point_name: ''
+experiment_id: '779460352225966871'
+lifecycle_stage: active
+run_id: 71d424ef7eab4a47b004a4dc4fc74b09
+run_name: big-bass-747
+run_uuid: 71d424ef7eab4a47b004a4dc4fc74b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739365858924
+status: 3
+tags: []
+user_id: Asus
