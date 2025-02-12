@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739367487599
+current_stage: None
+description: ''
+last_updated_timestamp: 1739367487599
+name: sunny-model-1
+run_id: f12d4f95caae4e45af7a6a02be96b98d
+run_link: ''
+source: mlflow-artifacts:/779460352225966871/f12d4f95caae4e45af7a6a02be96b98d/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/779460352225966871/f12d4f95caae4e45af7a6a02be96b98d/artifacts/model
+user_id: null
+version: 1
